@@ -1,10 +1,6 @@
 # Ipldataanalysis
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kishanAd/Ipldataanalysis/blob/main/ipl.ipynb) 
+[Open In Databrick](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2071300090512521/3439636951876857/5841912600381934/latest.html) 
 
-Dataset used : 
+## Dataset used : 
 
-[Ball By Ball Data](https://www.kaggle.com/nowke9/ipldata?select=deliveries.csv) 
-
-[Match Data](https://www.kaggle.com/nowke9/ipldata?select=matches.csv)
-
-The two datasets used above consists of ball by ball data and match detail of Indian premier League between 2008-2019 .
+[Kaggle Dataset](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020/data)
